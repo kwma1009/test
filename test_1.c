@@ -7,3 +7,10 @@ line 3
 2
 
 a
+=======
+line a
+line b
+line c
+line d
+
+c
